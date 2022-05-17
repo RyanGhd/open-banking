@@ -1,3 +1,4 @@
 [submodule "submodules/basiq"]
 	path = submodules/basiq
 	url = https://github.com/RyanGhd/basiq.git
+	branch = cloned-upstram2
