@@ -6,3 +6,11 @@
 	path = external/pingidentity-cdr-sandbox
 	url = https://github.com/pingidentity/pingidentity-cdr-sandbox.git
 	branch = master
+[submodule "external/cdr-standards"]
+	path = external/cdr-standards
+	url = https://github.com/ConsumerDataStandardsAustralia/standards.git
+	branch = master
+[submodule "external/cdr-mock-register"]
+	path = external/cdr-mock-register
+	url = https://github.com/ConsumerDataRight/mock-register.git
+	branch = main
