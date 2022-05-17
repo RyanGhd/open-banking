@@ -1,3 +1,6 @@
+[submodule "external/pingidentity-cdr-sandbox"]
+	path = external/pingidentity-cdr-sandbox
+	url = https://github.com/pingidentity/pingidentity-cdr-sandbox.git
 [submodule "sub/basiq"]
 	path = sub/basiq
 	url = https://github.com/RyanGhd/basiq.git
