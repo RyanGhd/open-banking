@@ -1,4 +1,4 @@
 [submodule "sub/basiq"]
 	path = sub/basiq
 	url = https://github.com/RyanGhd/basiq.git
-	branch = cloned-upstream2
+	branch = cloned-upstream3
